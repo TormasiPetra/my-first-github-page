@@ -43,7 +43,7 @@ body{
     
     text-align: center;
 
-    background-color: #f49880;
+    background-color: #eef121;
 
     border-radius: 2px;
 
@@ -52,6 +52,7 @@ body{
 
 .box p{
     color: #184a45;
+    font-weight: 100;
 }
 
 .box p:nth-child(1) {
