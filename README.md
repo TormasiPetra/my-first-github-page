@@ -1,1 +1,1 @@
-# my-first-github-page
+Quote of the day
